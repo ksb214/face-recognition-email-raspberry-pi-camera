@@ -1,4 +1,4 @@
-# Recognise face of visitor with OpenCV running on Raspberry Pi Camera and receive email alert
+# Recognise face of visitor with Raspberry Pi and receive email alert
 
 Camera records images constantly and then passes it to the OpenCV for face recognition. 
 Once it recognizes a face in the image, it sends alert to the email address with the image in the attachment. 
