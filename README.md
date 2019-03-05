@@ -1,4 +1,4 @@
-# face-recognition-email-raspberry-pi-camera
+# Face-recognition-email-raspberry-pi-camera
 
 Camera records images constantly and then passes it to the OpenCV for face recognition. 
 Once it recognizes a face in the image, it sends alert to the email address with the image in the attachment. 
