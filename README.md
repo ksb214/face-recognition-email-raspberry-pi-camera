@@ -9,3 +9,6 @@ the app from Gmail.
 
 Gmail provides the following guidelines to generate the app password for emailing directly from Raspberry Pi. 
 Use “other” option to generate the password for the app to login to Gmail and send an email.
+
+Email will look this. 
+<p><img src="https://github.com/ksb214/face-recognition-email-raspberry-pi-camera/blob/master/blog2.png" alt="" /></p>
